@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumen",
+      "hasCanvas": false,
+      "bodyTextLen": 86,
+      "bodyTextHash": "e1f6408c6cf928ec6f5b95b78d425688a0d4f2e7525b2a7b2f2c023f2d06c634",
+      "bodyTextPrefix": "FOCUS STUDIO Lumen A quieter way to work. One interval, one scen",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumen",
+      "hasCanvas": false,
+      "bodyTextLen": 86,
+      "bodyTextHash": "e1f6408c6cf928ec6f5b95b78d425688a0d4f2e7525b2a7b2f2c023f2d06c634",
+      "bodyTextPrefix": "FOCUS STUDIO Lumen A quieter way to work. One interval, one scen",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
